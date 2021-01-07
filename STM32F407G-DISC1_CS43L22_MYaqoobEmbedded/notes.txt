@@ -32,4 +32,4 @@ cannot remove call handler on TIM2 interrupt
 2021-01-07 ok
 CS43_Init(hi2c1, MODE_ANALOG); // from MODE_I2S to MODE_ANALOG >> ok
 Rename to STM32F407G-DISC1_CS43L22_MYaqoobEmbedded
-added i2c waveform init
+added i2c waveform init for MODE_ANALOG
